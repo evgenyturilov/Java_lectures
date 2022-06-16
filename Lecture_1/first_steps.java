@@ -41,7 +41,8 @@ public class first_steps {                      // автоматически з
         // | false | true  |  true   |  false  |  true   |  true   |
         // | true  | true  |  true   |  true   |  false  |  false  |
 
-
+        String msg = "Hello World!";
+        System.out.println(msg);
     }
 }
 
